@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Speciality from "./components/Speciality"
+import PopularFoods from "./components/PopularFoods"
 
 function App() {
   
@@ -10,6 +11,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <Speciality/>
+    <PopularFoods/>
     </div>
     </>
   )

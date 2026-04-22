@@ -1,7 +1,7 @@
 export default function Speciality() {
     return (
         <div className="py-4">
-            <h2 className="text-2xl text-center font-medium text-slate-800">Our <span>Speciality</span></h2>
+            <h2 className="text-2xl text-center font-medium text-slate-800">Our <span className="text-red-500">Speciality</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto px-4 py-4">
                 {/* tasty burger  */}
                 <div className="flex flex-col gap-2 justify-center items-center text-center rounded-md p-5 bg-slate-50 shadow-md border border-black/10 h-50">
