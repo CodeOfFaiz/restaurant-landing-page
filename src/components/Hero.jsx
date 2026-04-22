@@ -15,7 +15,7 @@ export default function Hero() {
         </h2>
 
         <p className="text-sm md:text-base text-gray-200">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore vel, atque aliquid voluptas repudiandae illum doloribus ullam maxime quod velit veritatis architecto tempora ducimus.
+          Delicious meals prepared with fresh ingredients and authentic flavors, made to satisfy your cravings every time.
         </p>
 
         <button className="px-5 py-2 border-2 border-white text-white rounded-md hover:bg-white hover:text-black hover:scale-105 transition duration-300 w-fit mx-auto md:mx-0 cursor-pointer">
