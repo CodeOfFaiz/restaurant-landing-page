@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Speciality from "./components/Speciality"
 import PopularFoods from "./components/PopularFoods"
 import HowItWorks from "./components/HowItWorks"
+import FoodGallery from "./components/FoodGallery"
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
     <Speciality/>
     <PopularFoods/>
     <HowItWorks/>
+    <FoodGallery/>
     </div>
     </>
   )
