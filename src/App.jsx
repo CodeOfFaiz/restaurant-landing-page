@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Speciality from "./components/Speciality"
 import PopularFoods from "./components/PopularFoods"
+import HowItWorks from "./components/HowItWorks"
 
 function App() {
   
@@ -12,6 +13,7 @@ function App() {
     <Hero/>
     <Speciality/>
     <PopularFoods/>
+    <HowItWorks/>
     </div>
     </>
   )

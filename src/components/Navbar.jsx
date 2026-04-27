@@ -9,7 +9,7 @@ export default function Navbar() {
                 <nav className="flex justify-between items-center px-4 md:px-8 lg:px-12 py-1 md:py-1.5 lg:py-2 bg-slate-50 shadow-md">
                     <div className="flex justify-center items-center gap-2 md:gap-4 lg:gap-6 text-xl md:text-2xl lg:text-3xl font-bold text-slate-600">
                         <img
-                            src="/public/logo.png"
+                            src="/logo.png"
                             alt="Food"
                             className="w-10"
                         />
