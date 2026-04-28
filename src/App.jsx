@@ -4,6 +4,7 @@ import Speciality from "./components/Speciality"
 import PopularFoods from "./components/PopularFoods"
 import HowItWorks from "./components/HowItWorks"
 import FoodGallery from "./components/FoodGallery"
+import Testimonials from "./components/Testimonials"
 
 function App() {
   
@@ -16,6 +17,7 @@ function App() {
     <PopularFoods/>
     <HowItWorks/>
     <FoodGallery/>
+    <Testimonials/>
     </div>
     </>
   )
