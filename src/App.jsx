@@ -6,6 +6,7 @@ import HowItWorks from "./components/HowItWorks"
 import FoodGallery from "./components/FoodGallery"
 import Testimonials from "./components/Testimonials"
 import OrderNow from "./components/OrderNow"
+import Footer from "./components/footer"
 
 function App() {
   
@@ -20,6 +21,7 @@ function App() {
     <FoodGallery/>
     <Testimonials/>
     <OrderNow/>
+    <Footer/>
     </div>
     </>
   )
