@@ -24,7 +24,7 @@ export default function Hero() {
 
       {/* IMAGE */}
       <img
-        src="/burger.png"
+        src="/burger.webp"
         alt="burger"
         className="relative w-64 md:w-80 lg:w-[420px] mt-6 md:mt-0"
       />
