@@ -1,5 +1,3 @@
-import burger from "../assets/burger.png"
-
 export default function Hero() {
   return (
     <div className="relative flex flex-col md:flex-row items-center justify-between px-6 md:px-12 py-10 min-h-[80vh] bg-[url('/bg.jpg')] bg-cover bg-center ">
@@ -26,7 +24,7 @@ export default function Hero() {
 
       {/* IMAGE */}
       <img
-        src={burger}
+        src="/burger.png"
         alt="burger"
         className="relative w-64 md:w-80 lg:w-[420px] mt-6 md:mt-0"
       />
