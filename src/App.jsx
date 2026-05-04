@@ -6,7 +6,7 @@ import HowItWorks from "./components/HowItWorks"
 import FoodGallery from "./components/FoodGallery"
 import Testimonials from "./components/Testimonials"
 import OrderNow from "./components/OrderNow"
-import Footer from "./components/footer"
+import Footer from "./components/Footer"
 
 function App() {
   
